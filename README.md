@@ -2,7 +2,7 @@
 
 ## 📥 WDUnistall и Registry Scanner
 
-- GitHub Releases: [Перейти](https://github.com/changelog-download/recleaner-changelog/releases/tag/v1.0)
+- GitHub Releases: [Перейти](https://github.com/changelog-download/Other-projects/releases/tag/latest)
 
 ## 🚀 ВОЗМОЖНОСТИ WDUnistall.
 
