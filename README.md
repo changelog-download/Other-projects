@@ -4,7 +4,7 @@
 
 - GitHub Releases: [Перейти](https://github.com/changelog-download/Other-projects/releases/tag/latest)
 
-## 🚀 ВОЗМОЖНОСТИ WDUnistall.
+## 🚀 ВОЗМОЖНОСТИ WDUninstaller.
 
 - Полное удаление служб Windows Defender.
 - Создание бекапа служб Windows Defender, перед их удалением.
