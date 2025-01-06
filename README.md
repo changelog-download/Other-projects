@@ -1,6 +1,6 @@
 # OTHER PROJECTS
 
-## 📥 WDUnistall и Registry Scanner
+## 📥 WDUnistaller и Registry Scanner
 
 - GitHub Releases: [Перейти](https://github.com/changelog-download/Other-projects/releases/tag/latest)
 
